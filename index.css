@@ -1,0 +1,18 @@
+body{
+    background-color: #F5F1ED;
+}
+.xiaomi{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+}
+.carousel-item img{
+    width: 250px;
+    height: auto;
+}
+carousel{
+width: 250px; height: auto; 
+}
+.up{
+    font-size: 30px;
+}
